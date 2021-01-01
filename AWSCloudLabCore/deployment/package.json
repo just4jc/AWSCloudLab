@@ -6,7 +6,7 @@
   "dependencies": {
     "aws-sdk": "^2.130.0",
     "cfn-response": "^1.0.1",
-    "consolidate": "^0.13.1",
+    "consolidate": "^0.16.0",
     "ejs": "^2.3.4",
     "underscore": ">=1.8.3",
     "dynamodb-data-types": ">=2.0.0",
