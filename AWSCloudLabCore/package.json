@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "AWS Cloud Lab Core",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^3.2.2",
     "aws-sdk": "^2.4.8",
     "cfn-response": "^1.0.1",
     "consolidate": "^0.14.5",
@@ -20,7 +20,7 @@
     "nodemailer": "^4.1.1",
     "randomstring": "^1.1.5",
     "underscore": "~1.8.3",
-    "zip-dir": "^1.0.2",
+    "zip-dir": "^2.0.0",
     "rmdir": "^1.2.0"
   },
   "devDependencies": {
